@@ -1,0 +1,5 @@
+streamlit>=1.32
+python-docx>=1.1.0
+srt>=3.5.3
+python-dotenv>=1.0.1
+requests>=2.31.0
